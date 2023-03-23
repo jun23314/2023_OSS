@@ -1,4 +1,5 @@
-## 3주차 git
+# 3주차 git
+
 ## 이미지
 ![한국항공대학교 로고](https://user-images.githubusercontent.com/116951160/227158337-6db80558-2711-4156-bc57-3a2dc194d308.jpeg)
 
