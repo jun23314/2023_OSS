@@ -1,6 +1,6 @@
 ## 3주차 git
 ## 이미지
-![이미지](../img)
+
 ## 링크
 [LMS](https://lms.kau.ac.kr/login.php)
 ## ProGit 링크
