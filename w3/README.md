@@ -54,12 +54,10 @@ __double underscores__
 enter=----------
 echo $enter
 echo name :
-echo 이준희
 echo
 
 echo $enter
 echo student id:
-echo 2021125051
 echo
 
 echo $enter
